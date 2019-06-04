@@ -1,6 +1,6 @@
 # hekate - CTCaer mod - with eMMC size check removed
 
-![Image of Hekate](https://https://i.imgur.com/g2aNfVH.png)
+![Image of Hekate](https://i.imgur.com/g2aNfVH.png)
 
 
 Custom Nintendo Switch bootloader, firmware patcher, and more.
