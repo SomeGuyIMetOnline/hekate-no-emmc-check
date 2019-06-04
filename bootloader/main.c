@@ -1157,7 +1157,8 @@ ment_t ment_top[] = {
 };
 menu_t menu_top = {
 	ment_top,
-	"hekate - CTCaer mod v4.10.1", 0, 0
+	"hekate - CTCaer mod v4.10.1 | sthetix mod", 0, 0
+
 };
 
 #define IPL_STACK_TOP  0x90010000
